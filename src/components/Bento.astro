@@ -1,0 +1,52 @@
+---
+import BentoItem from "./BentoItem.astro"
+---
+
+<section 
+class= {`
+    w-full max-w-[1400px]
+    grid grid-cols-10 auto-rows-[30rem] gap-4
+    mx-auto p-20
+`}>
+
+<BentoItem class="col-span-10 md:col-span-4" title = ""> 
+
+    <div slot="image"
+    class=" absolute left-0 top-0 bottom-0 w-full h-full group-hover:scale-105 transition-scale duration-1000 ease-in-out opacity-90 bg-blend-luminosity bg-center bg-cover bg-no-repeat bg-blue-950  -z-10"
+    style= "background-image: url('public/biorn.jpg');">
+    </div>
+    
+</BentoItem>
+
+<BentoItem class="col-span-10 md:col-span-6" title = "" subtitle="">
+    <div slot="image"
+    class=" absolute left-0 top-0 bottom-0 w-full h-full group-hover:scale-105 transition-scale duration-1000 ease-in-out opacity-90 bg-blend-luminosity bg-center bg-cover bg-no-repeat bg-blue-950  -z-10"
+    style= "background-image: url('public/biorn2.jpg');">
+    </div>
+    
+</BentoItem>
+
+<BentoItem class="col-span-10 md:col-span-6" title = "REMODELACION INTEGRAL" subtitle="">
+    <div slot="image"
+    class=" absolute left-0 top-0 bottom-0 w-full h-full group-hover:scale-105 transition-scale duration-1000 ease-in-out opacity-90 bg-blend-luminosity bg-center bg-cover bg-no-repeat bg-blue-950  -z-10"
+    style= "background-image: url('public/biorn3.jpg');">
+    </div>
+    <p slot="content" class=" max-w-xl">
+        Desde la planificación hasta
+construcción, nos ocupamos de
+cada detalle para proporcionarte
+un entorno renovado y adaptado
+a tus necesidades.
+    </p>
+</BentoItem>
+
+<BentoItem class="col-span-10 md:col-span-4" title = "">
+    <div slot="image"
+    class=" absolute left-0 top-0 bottom-0 w-full h-full group-hover:scale-105 transition-scale duration-1000 ease-in-out opacity-90 bg-blend-luminosity bg-center bg-cover bg-no-repeat bg-blue-950  -z-10"
+    style= "background-image: url('public/biorn4.jpg');">
+    </div>
+    
+</BentoItem>
+
+</section>
+
