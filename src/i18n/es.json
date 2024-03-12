@@ -1,26 +1,26 @@
 {
-	"SEO_TITLE_1": "Premios ESLAND",
+	"SEO_TITLE_1": "BIORN",
 	"SEO_TITLE_2": "- Celebrando lo mejor del streaming y los creadores de contenido",
 	"SEO_DESCRIPTION": "Descubre a los mejores creadores de contenido de España, Latinoamérica y Andorra. ¡Vota por tus favoritos! Celebra la innovación y el talento de Twitch, YouTube y más",
 	"SEO": {
-		"ARCHIVO_TITLE": "Archivo de las ediciones anteriores - Premios ESLAND",
+		"ARCHIVO_TITLE": "Archivo de las ediciones anteriores - BIORN",
 		"ARCHIVO_DESCRIPTION": "Repasa los mejores momentos de ediciones anteriores",
-		"INFO_TITLE": "Información - Premios ESLAND",
-		"INFO_DESCRIPTION_1": "Descubre todo lo que necesitas saber sobre los Premios ESLAND",
+		"INFO_TITLE": "Información - BIORN",
+		"INFO_DESCRIPTION_1": "Descubre todo lo que necesitas saber sobre los BIORN",
 		"INFO_DESCRIPTION_2": "y descarga el Kit de Prensa",
-		"VOTE_TITLE": "Vota por tus creadores de contenido favoritos - Premios ESLAND",
+		"VOTE_TITLE": "Vota por tus creadores de contenido favoritos - BIORN",
 		"VOTE_DESCRIPTION": "Vota por tus creadores de contenido favoritos de España, Latinoamérica y Andorra",
-		"LEGAL_NOTICE_TITLE": "Aviso legal - Premios ESLAND",
-		"LEGAL_NOTICE_DESCRIPTION": "El aviso legal establece las disposiciones legales y las responsabilidades relacionadas con los Premios ESLAND, abordando aspectos como términos de uso, responsabilidades legales y acuerdos entre el usuario y la entidad responsable",
-		"PRIVACY_POLICY_TITLE": "Política de privacidad - Premios ESLAND",
-		"PRIVACY_POLICY_DESCRIPTION": "La Política de Privacidad de los Premios ESLAND describe cómo se recopilan, utilizan, protegen y comparten los datos personales de los usuarios",
-		"COOKIES_TITLE":"Política de cookies - Premios ESLAND",
-		"COOKIES_DESCRIPTION":"La Política de Cookies de los Premios ESLAND informa sobre el uso de cookies y tecnologías similares en el sitio web",
-		"ERROR_404_TITLE": "404 Página no encontrada - Premios ESLAND",
+		"LEGAL_NOTICE_TITLE": "Aviso legal - BIORN",
+		"LEGAL_NOTICE_DESCRIPTION": "El aviso legal establece las disposiciones legales y las responsabilidades relacionadas con los BIORN, abordando aspectos como términos de uso, responsabilidades legales y acuerdos entre el usuario y la entidad responsable",
+		"PRIVACY_POLICY_TITLE": "Política de privacidad - BIORN",
+		"PRIVACY_POLICY_DESCRIPTION": "La Política de Privacidad de los BIORN describe cómo se recopilan, utilizan, protegen y comparten los datos personales de los usuarios",
+		"COOKIES_TITLE":"Política de cookies - BIORN",
+		"COOKIES_DESCRIPTION":"La Política de Cookies de los BIORN informa sobre el uso de cookies y tecnologías similares en el sitio web",
+		"ERROR_404_TITLE": "404 Página no encontrada - BIORN",
 		"ERROR_404_DESCRIPTION": "Página no encontrada (Error 404). Verifica la URL o explora nuestras secciones. ¿Necesitas ayuda? Contáctenos."
 	},
 	"HEADER": {
-		"LOGO": "Volver a la página de inicio de los Premios ESLAND"
+		"LOGO": "Volver a la página de inicio de los BIORN"
 	},
 	"HEADER_VOTE": "VOTA",
 	"HEADER_INFO": "INFO",
@@ -28,23 +28,25 @@
 	"HEADER_BUTTON": "CRITERIOS DE NOMINACIÓN",
 	"HERO_SUBTITLE": "Premios a la Comunidad Hispanohablante de Streaming",
 	"INTRO_TITLE": "Bienvenidos/as",
-	"INTRO_TITLE_AFTER_BR": "a los Premios ESLAND",
-	"INTRO_DESCRIPTION_1": "El cine tiene los Oscars, la música tiene los Grammy y <strong>el streaming tiene los ESLAND</strong>. Los premios que celebran la creatividad y el talento de los mejores creadores de contenido de <strong>la comunidad hispanohablante</strong>",
-	"INTRO_DESCRIPTION_2": "España, Latinoamérica y Andorra unidas por creadores, creadoras y sus comunidades, para recordar y revivir <strong>algunos de los mejores momentos del año.</strong>",
-	"INTRO_DESCRIPTION_3": "Tras dos galas celebradas, una en el Palau de la Música Catalana de Barcelona, y otra en el Auditorio Nacional de la Ciudad de México, solo queda esperar a <strong>la tercera edición en Andorra.</strong>",
-	"BENTO_TITLE_1": "Andorra: el cénit de los premios ESLAND",
+	"INTRO_TITLE_AFTER_BR": "a BIORN",
+	"INTRO_DESCRIPTION_1": "Transformamos tus espacios en obras de arte. Nuestra pasión por la <strong>pintura</strong> y las <strong>refacciones</strong> se refleja en cada proyecto, donde la calidad y el detalle son nuestra máxima prioridad.",
+	"INTRO_DESCRIPTION_2": "No solo <strong>reparamos veredas</strong>, sino que también construimos caminos hacia un futuro más sólido. Confía en nosotros para darle vida y seguridad a tus espacios exteriores.",
+	"INTRO_DESCRIPTION_3": "Protegemos tus sueños de las inclemencias del tiempo. Nuestra <strong>impermeabilización con poliuretano</strong> garantiza que tu edificio se mantenga seguro y seco durante años.",
+	"INTRO_DESCRIPTION_4":"Convertimos tus ideas en realidad. Nuestro <strong>equipo experto en remodelaciones</strong> trabaja contigo para crear espacios que reflejen tu estilo y personalidad.",
+	"INTRO_DESCRIPTION_5":"Nuestra <strong>experiencia en obra civil</strong> e industrial garantiza resultados que perduran en el tiempo.",
+	"BENTO_TITLE_1": "Andorra: el cénit de los BIORN",
 	"BENTO_CONTENT_1": "Una nueva edición <strong>cargada de novedades</strong> y contenido, que empezará varias semanas antes de la ansiada gala. <strong> Directos especiales, colaboraciones, conciertos y mucho más</strong> en lo que será una auténtica fiesta dedicada a la creación de contenido.",
 	"BENTO_TITLE_2": "La alfombra blanca",
 	"BENTO_SUBTITLE_2": "16 de febrero de 2024",
 	"BENTO_CONTENT_2": "Este año, el momento de la alfombra azul será sustituido y mejorado, gracias a los increíbles paisajes andorranos, por una <strong> alfombra blanca en plena nieve</strong>, situada en las <strong>pistas de esquí de Andorra</strong>.",
 	"BENTO_TITLE_3": "La gala",
 	"BENTO_SUBTITLE_3": "17 de febrero de 2024",
-	"BENTO_CONTENT_3": "Una gala de premios llena de <strong>contenido de primer nivel</strong> y <strong>muchas sorpresas</strong>, en la que descubrirán los ganadores de esta tercera edición de los Premios ESLAND.",
+	"BENTO_CONTENT_3": "Una gala de premios llena de <strong>contenido de primer nivel</strong> y <strong>muchas sorpresas</strong>, en la que descubrirán los ganadores de esta tercera edición de los BIORN.",
 	"BENTO_TITLE_4": "Disfruta del Reddit de la comunidad",
-	"BENTO_CONTENT_4": "Este año, el reddit no formará parte de las votaciones de los premios, pero sí que <strong>formará parte de la comunidad</strong>. El subreddit oficial de los Premios ESLAND está abierto para ti. Comparte tus clips, opiniones e <strong>interactúa con toda la comunidad</strong> del streaming hispanohablante.",
+	"BENTO_CONTENT_4": "Este año, el reddit no formará parte de las votaciones de los premios, pero sí que <strong>formará parte de la comunidad</strong>. El subreddit oficial de los BIORN está abierto para ti. Comparte tus clips, opiniones e <strong>interactúa con toda la comunidad</strong> del streaming hispanohablante.",
 	"VIDEO_ALT": "ESLAND - Premios a la comunidad hispanohablante de Streaming",
 	"VIDEO_BUTTON": "Vota",
-	"PREFOOTER_VIDEO_TITLE": "Guía de la 3ª Edición de los premios ESLAND",
+	"PREFOOTER_VIDEO_TITLE": "Guía de la 3ª Edición de los BIORN",
 	"ARCHIVO": {
 		"HERO_TITLE": "Ediciones anteriores",
 		"HERO_BUTTON": "Revive la última gala",
@@ -86,9 +88,9 @@
 		},
 		"PRODUCED_BY": "Producido por"
 	},
-	"INFO_TITLE": "Los premios ESLAND",
+	"INFO_TITLE": "Los BIORN",
 	"INFO_TITLE_1": "Un reconocimiento único para creadores, creadoras y comunidades",
-	"INFO_CONTENT_1_1": "Los Premios ESLAND son una iniciativa privada promovida por el célebre streamer TheGrefg y buscan apoyar y reconocer la creación de contenido en el ámbito hispanohablante.",
+	"INFO_CONTENT_1_1": "Los BIORN son una iniciativa privada promovida por el célebre streamer TheGrefg y buscan apoyar y reconocer la creación de contenido en el ámbito hispanohablante.",
 	"INFO_CONTENT_1_2": "ESLAND es el acrónimo de ESPAÑA, LATINOAMÉRICA Y ANDORRA, tres localizaciones geográficas que comparten el idioma que las une más allá de cualquier frontera, ya sea física o virtual.",
 	"INFO_TITLE_2": "EL PREMIO A LA CREACIÓN",
 	"INFO_CONTENT_2_1": "El trofeo que se entrega a los ganadores y ganadoras en la ceremonia es <strong>una representación de la letra “A” dividida en tres fragmentos</strong> y ensambladas a modo de artilugio futurista sobre el que se construye la narrativa del evento.",
@@ -217,7 +219,7 @@
 	"PRIVACY": {
 		"POLICY": {
 			"TITLE": "Política de privacidad",
-			"DESCRIPTION_1": "Nos complace que visite la web oficial de PREMIOS ESLAND www.premiosesland.com (en adelante, Sitio Web) y agradecemos su interés.",
+			"DESCRIPTION_1": "Nos complace que visite la web oficial de BIORN www.premiosesland.com (en adelante, Sitio Web) y agradecemos su interés.",
 			"DESCRIPTION_2": "UBIQ S.L.U (en adelante, UBIQ) tiene el firme compromiso de cumplir con la legislación vigente en materia de protección de datos personales para garantizar la privacidad, el secreto y la seguridad de los datos personales de los Usuarios aplicando medidas técnicas y organizativas apropiadas al efecto.",
 			"DESCRIPTION_3": "La presente Política de Privacidad tiene por objeto informar a los Usuarios sobre el tratamiento que UBIQ hace de los datos personales que el Usuario facilite al acceder, navegar y utilizar los servicios que se ofrecen en el Sitio Web, así como de las medidas de seguridad adoptadas, del ejercicio de los derechos de los Usuarios y de la forma de contacto.",
 			"DESCRIPTION_4": "Los datos personales sólo serán obtenidos por UBIQ para su tratamiento, cuando sean adecuados, pertinentes y no excesivos en relación con el ámbito y las finalidades determinadas, explícitas y legítimas para las que se hayan obtenido.",
@@ -239,7 +241,7 @@
 		},
 		"PURPOSE": {
 			"TITLE": "Finalidad del tratamiento",
-			"DESCRIPTION_1": "Gestionar las solicitudes de información recibidas a través de la función de “Contacto” de la Web. Gestionar las votaciones de los PREMIOS ESLAND realizadas por los Usuarios del Sitio Web (identificación, validación y recuento de votos). Fines estadísticos de participación y resultados de las votaciones en los PREMIOS ESLAND -para dar cumplimiento a esta finalidad los datos personales serán objeto de un proceso de anonimización-. Para poder participar como jurado en los PREMIOS ESLAND, los Usuarios deberán pulsar en “Identifícate y Vota” y serán redireccionados a la web de Twitch (www.twitch.tv) en la que deberán disponer de una cuenta abierta en dicha plataforma de streaming. Cuando el Usuario desde su cuenta pulse “Autorizar” estará manifestando que ha leído y que acepta la Política de Privacidad de www.premiosesland.com. A continuación, el Usuario podrá seleccionar sus preferencias de voto de entre las distintas categorías definidas por Streamers y contenidos siguiendo las indicaciones del Sitio Web y una vez seleccionados sus votos deberá pulsar en “Enviar Mis Votos”. Las votaciones y la identidad del Usuario se registrarán en la base de datos de UBIQ. La identidad del Usuario se registrará mediante un código hash -algoritmo matemático- (pseudonimizado).",
+			"DESCRIPTION_1": "Gestionar las solicitudes de información recibidas a través de la función de “Contacto” de la Web. Gestionar las votaciones de los BIORN realizadas por los Usuarios del Sitio Web (identificación, validación y recuento de votos). Fines estadísticos de participación y resultados de las votaciones en los BIORN -para dar cumplimiento a esta finalidad los datos personales serán objeto de un proceso de anonimización-. Para poder participar como jurado en los BIORN, los Usuarios deberán pulsar en “Identifícate y Vota” y serán redireccionados a la web de Twitch (www.twitch.tv) en la que deberán disponer de una cuenta abierta en dicha plataforma de streaming. Cuando el Usuario desde su cuenta pulse “Autorizar” estará manifestando que ha leído y que acepta la Política de Privacidad de www.premiosesland.com. A continuación, el Usuario podrá seleccionar sus preferencias de voto de entre las distintas categorías definidas por Streamers y contenidos siguiendo las indicaciones del Sitio Web y una vez seleccionados sus votos deberá pulsar en “Enviar Mis Votos”. Las votaciones y la identidad del Usuario se registrarán en la base de datos de UBIQ. La identidad del Usuario se registrará mediante un código hash -algoritmo matemático- (pseudonimizado).",
 			"DESCRIPTION_2": "Twitch Interactive, Inc. propietaria de www.twitch.tv actúa como proveedor de los servicios de validación y verificación de la identidad de los Usuarios que votan para evitar el fraude en el proceso de votación."
 		},
 		"PERSONAL_DATA": {
@@ -250,18 +252,18 @@
 		"LEGITIMACY": {
 			"TITLE": "Base de legitimación",
 			"DESCRIPTION_1": "La base de legitimación para gestionar las comunicaciones que se reciban a través de la función “Contacto” es el interés legítimo de UBIQ.",
-			"DESCRIPTION_2": "La base de legitimación del tratamiento de los datos personales de los Usuarios que participan en los PREMIOS ESLAND es el consentimiento expreso otorgado al participar como jurado y el interés legítimo de UBIQ en la gestión de los eventos que organice y en la gestión de los PREMIOS ESLAND.",
+			"DESCRIPTION_2": "La base de legitimación del tratamiento de los datos personales de los Usuarios que participan en los BIORN es el consentimiento expreso otorgado al participar como jurado y el interés legítimo de UBIQ en la gestión de los eventos que organice y en la gestión de los BIORN.",
 			"DESCRIPTION_3": "El Usuario podrá revocar el consentimiento en cualquier momento. No obstante, el tratamiento sobre los datos personales realizado con anterioridad a la revocación del consentimiento será lícito."
 		},
 		"PRESERVATION": {
 			"TITLE": "Conservación de los datos",
 			"DESCRIPTION_1": "Los datos se conservarán durante el plazo estrictamente necesario para dar cumplimiento a la finalidad para la que fueron recabados. No obstante, UBIQ podrá conservar los datos para su puesta a disposición de las autoridades competentes o para hacer frente a posibles reclamaciones, en cuyo caso los datos se conservarán bloqueados hasta la finalización de los plazos de prescripción, momento en que serán eliminados con las medidas de seguridad adecuadas.",
-			"DESCRIPTION_2": "Finalizado el plazo de conservación, los datos personales podrán ser objeto de un proceso de anonimización para fines estadísticos de los PREMIOS ESLAND."
+			"DESCRIPTION_2": "Finalizado el plazo de conservación, los datos personales podrán ser objeto de un proceso de anonimización para fines estadísticos de los BIORN."
 		},
 		"COMMUNICATION": {
 			"TITLE": "Comunicación de datos",
 			"DESCRIPTION_1": "UBIQ no cederá a terceros los datos facilitados por los Usuarios del Sitio Web, salvo consentimiento previo y expreso de éstos o sea necesario por imperativo legal (Administraciones públicas, Fuerzas y Cuerpos de Seguridad del Estado, Ministerio Fiscal, Agencia Española de Protección de Datos, etc).",
-			"DESCRIPTION_2": "UBIQ informa a los Usuarios que los datos personales podrán comunicarse a proveedores de UBIQ para poder atender a la gestión de los PREMIOS ESLAND, en cuyo caso, aquellos tendrán la condición de encargados del tratamiento siguiendo las instrucciones de UBIQ sobre el tratamiento de datos personales."
+			"DESCRIPTION_2": "UBIQ informa a los Usuarios que los datos personales podrán comunicarse a proveedores de UBIQ para poder atender a la gestión de los BIORN, en cuyo caso, aquellos tendrán la condición de encargados del tratamiento siguiendo las instrucciones de UBIQ sobre el tratamiento de datos personales."
 		},
 		"USER_RIGHTS": {
 			"TITLE": "Derechos de los usuarios",
@@ -289,7 +291,7 @@
 		},
 		"INTERNATIONAL_TRANSFERS": {
 			"TITLE": "Transferencias internacionales",
-			"DESCRIPTION": "Los datos personales pueden alojarse en servidores ubicados fuera del Espacio Económico Europeo (Estados Unidos, Japón, Australia, Japón), al participar en los PREMIOS ESLAND consiente dicha transferencia de datos y se le informa que en éstas se garantiza la existencia de una Decisión de Adecuación del Comité Europeo de Protección de Datos o bien la adopción de medidas de garantía complementarias a fin de garantizar un nivel de adecuación de protección alineado con el Reglamento General de Protección de Datos de la Unión Europea."
+			"DESCRIPTION": "Los datos personales pueden alojarse en servidores ubicados fuera del Espacio Económico Europeo (Estados Unidos, Japón, Australia, Japón), al participar en los BIORN consiente dicha transferencia de datos y se le informa que en éstas se garantiza la existencia de una Decisión de Adecuación del Comité Europeo de Protección de Datos o bien la adopción de medidas de garantía complementarias a fin de garantizar un nivel de adecuación de protección alineado con el Reglamento General de Protección de Datos de la Unión Europea."
 		},
 		"MODIFICATIONS": {
 			"TITLE": "Modificaciones de la política de privacidad",
@@ -318,12 +320,12 @@
 		},
 		"PURPOSE_AND_CONTENT_WEBSITE": {
 			"TITLE": "Objeto y contenido del sitio web",
-			"DESCRIPTION_1": "Este Sitio Web tiene por objeto informar a los Usuarios de los eventos que organice UBIQ en relación con las actividades de Streamers y ofrecer la posibilidad de participar en dichos eventos como jurado de los Premios Esland y seleccionar y emitir su voto a favor de sus Streamers y contenidos favoritos. El acceso a la información del Sitio Web no implica ni constituye relación contractual alguna entre el Usuario y UBIQ.",
+			"DESCRIPTION_1": "Este Sitio Web tiene por objeto informar a los Usuarios de los eventos que organice UBIQ en relación con las actividades de Streamers y ofrecer la posibilidad de participar en dichos eventos como jurado de los BIORN y seleccionar y emitir su voto a favor de sus Streamers y contenidos favoritos. El acceso a la información del Sitio Web no implica ni constituye relación contractual alguna entre el Usuario y UBIQ.",
 			"DESCRIPTION_2": "UBIQ emplea todos los esfuerzos para asegurar que toda la información disponible en el Sitio Web sea completa y esté actualizada, revisando periódicamente el contenido del Sitio Web. No obstante, el Usuario reconoce y acepta que toda la información disponible en el Sitio Web se ofrece únicamente a efectos meramente informativos y que UBIQ no garantiza la precisión, idoneidad e integridad de la información contenida en el Sitio Web. Es responsabilidad exclusiva del Usuario el uso que haga de la información contenida en el Sitio Web."
 		},
 		"TERMS_OF_USE": {
 			"TITLE": "Condiciones de uso",
-			"DESCRIPTION_1": "Estas condiciones generales de uso regulan el acceso y navegación en el Sitio Web, cuyo acceso y uso tiene carácter libre y gratuito, no siendo necesario el previo registro de los Usuarios. No obstante, en el caso de que los Usuarios deseen participar de forma activa en los PREMIOS ESLAND como jurado y así seleccionar y votar a sus Streamers y contenidos favoritos, deberán disponer de una cuenta abierta en la plataforma de streaming www.twitch.tv y en el proceso de votación se informará a los Usuarios de los pasos a seguir para emitir sus votos en las diferentes categorías designadas.",
+			"DESCRIPTION_1": "Estas condiciones generales de uso regulan el acceso y navegación en el Sitio Web, cuyo acceso y uso tiene carácter libre y gratuito, no siendo necesario el previo registro de los Usuarios. No obstante, en el caso de que los Usuarios deseen participar de forma activa en los BIORN como jurado y así seleccionar y votar a sus Streamers y contenidos favoritos, deberán disponer de una cuenta abierta en la plataforma de streaming www.twitch.tv y en el proceso de votación se informará a los Usuarios de los pasos a seguir para emitir sus votos en las diferentes categorías designadas.",
 			"DESCRIPTION_2": "El acceso, uso o navegación en el Sitio Web atribuye la condición de Usuario e implica el conocimiento, la aceptación y el sometimiento a las advertencias legales y a las condiciones de uso incluidas en el presente Aviso Legal en la versión publicada en el momento en que el Usuario accede al Sitio Web. El Usuario acepta que el uso del Sitio Web tiene lugar bajo su única y exclusiva responsabilidad. Se recomienda al Usuario leer el presente Aviso Legal en cada ocasión en que se acceda a la Web.",
 			"DESCRIPTION_3": "UBIQ se reserva, sin necesidad de previó aviso y en cualquier momento, el derecho a interrumpir, suspender temporalmente, desactivar y/ cancelar el acceso al Sitio Web o a cualesquiera de los elementos que se integran en el mismo."
 		},
